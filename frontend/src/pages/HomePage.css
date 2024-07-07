@@ -1,0 +1,36 @@
+
+
+
+.homepage {
+  text-align: center;
+  padding: 50px;
+}
+
+.star-rating-initial {
+  margin-bottom: 20px;
+}
+
+.stars {
+  font-size: 80px;
+  color: green;
+  margin: 0 5px;
+   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+   box-shadow: 10px 10px 5px lightblue inset;
+}
+
+.button {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
